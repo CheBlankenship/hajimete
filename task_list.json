@@ -1,0 +1,8 @@
+{
+    "tasks": [
+        {"name": "Deliver Services", "task_image": "https://s3.amazonaws.com/iosdata/dt/img_folder/if_Transport_877021.png", "task_detail": "Help delivering furnitures and heavy products."},
+        {"name": "Help Services", "task_image": "https://s3.amazonaws.com/iosdata/dt/img_folder/if_Bag_877010.png", "task_detail": "Check out all the desired helps you can work on!"},
+        {"name": "Shopping Services", "task_image": "https://s3.amazonaws.com/iosdata/dt/img_folder/if_Cart_877015.png", "task_detail": "Buy and deliver all kinds of food products to your customer."},
+        {"name": "Broker Services", "task_image": "https://s3.amazonaws.com/iosdata/dt/img_folder/if_Safe_877017.png", "task_detail": "Be a broker to help people exchange proucts safe on online such as Craigslist."}
+    ]
+}

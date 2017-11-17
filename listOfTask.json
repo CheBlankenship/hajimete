@@ -1,0 +1,8 @@
+{
+    "tasks": [
+        {"name": "A. Anderson", "task_image": "https://s3.amazonaws.com/iosdata/dt/img_folder/anderson.jpg", "task_detail": "20 hours ago"},
+        {"name": "J. Tomes", "task_image": "https://s3.amazonaws.com/iosdata/dt/img_folder/tom.jpg", "task_detail": "15 min ago"},
+        {"name": "Z. Jovobic", "task_image": "https://s3.amazonaws.com/iosdata/dt/img_folder/russio.jpg", "task_detail": "now"},
+        {"name": "B. Slavofski", "task_image": "https://s3.amazonaws.com/iosdata/dt/img_folder/mod.jpg", "task_detail": "2 hours ago"}
+    ]
+}

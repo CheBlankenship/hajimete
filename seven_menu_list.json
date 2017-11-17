@@ -1,0 +1,13 @@
+{
+    "menu": [
+        {"name": "Odenn", "menu_image": "http://ent.smt.docomo.ne.jp/wp-content/uploads/2016/05/20160827193311.jpg"},
+        {"name": "Onigiri", "menu_image": "http://mognavi.jp/image/food/02/39/01/1063214.jpg"},
+        {"name": "Sweets", "menu_image": "http://konbinipan.com/wp-content/uploads/2015/04/76dac39ea9e988598b7ffcc84eab4abd.jpg"},
+        {"name": "Tyomiryo", "menu_image": "http://oec-daisho.com/column/wp-content/uploads/2015/07/embellir.jpg"},
+        {"name": "Benntou", "menu_image": "http://mognavi.jp/image/food/02/39/01/782486.jpg"},
+        {"name": "Drink", "menu_image": "http://a.ecimg.tw/items/DBAK3ZA9007JI4X/i010001_1475135111.jpg"},
+        {"name": "Dagashi", "menu_image": "http://ishikisoku.com/wp-content/uploads/2017/03/card_calbee.jpg"},
+        {"name": "Nichiyouhinn", "menu_image": "https://www.soukai.com/main/prdimg/y/048/y4580287282048.jpg"},
+        {"name": "Book", "menu_image": "https://thumbnail.image.rakuten.co.jp/@0_mall/arne/cabinet/0005/0005a01696.jpg"}
+    ]
+}

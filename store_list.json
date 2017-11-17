@@ -1,0 +1,7 @@
+{
+    "stores": [
+        {"name": "7 Eleven", "store_image": "http://is3.mzstatic.com/image/thumb/Purple69/v4/10/d7/42/10d74262-04eb-0155-5ed3-33b981f023ab/pr_source.png/0x0ss-85.jpg"},
+        {"name": "Family Mart", "store_image": "http://www.marksign.net/wp-content/uploads/2016/04/familymart.jpg"},
+        {"name": "LAWSON", "store_image": "http://is3.mzstatic.com/image/thumb/Purple118/v4/d1/11/3a/d1113ae9-5beb-3ea0-da8a-14ea0b048c6c/source/1200x630bb.jpg"}
+    ]
+}

@@ -28,8 +28,8 @@ def summary():
         resultData = queryData.dictresult()
         return jsonify(resultData)
     else:
-        return render_template(
-             'placeholder.html'
+        return jsonify(
+            {"error": "no match."}
         )
 
 

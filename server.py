@@ -24,8 +24,8 @@ def home():
 @app.route('/summary')
 def summary():
     queryData = db.query("select * from testschema.stores")
-    if len(queryData) > 0:
-        resultData = queryData.dictresult()
+    resultData = queryData.dictresult()
+    if len(resultData) > 0:
         return jsonify(resultData)
     else:
         return jsonify(

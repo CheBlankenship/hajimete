@@ -25,7 +25,7 @@ def home():
 def summary():
     queryData = db.query("select * from testschema.stores")
     resultData = queryData.dictresult()
-    if len(resultData) > 5:
+    if len(resultData) > 0:
         return jsonify(resultData)
     else:
         return jsonify(

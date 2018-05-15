@@ -29,7 +29,7 @@ def summary():
         return jsonify(resultData)
     else:
         return jsonify(
-            {"error": "no match."}
+            {"error": "No match in your request."}
         )
 
 
